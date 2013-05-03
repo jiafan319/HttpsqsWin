@@ -13,11 +13,14 @@ HttpsqsWin采用Libevent2的Http模块提供Http服务。Kyotocabinet作为数�
 HttpsqsWin当前版本为0.3，源代码大部分基于HttpsqsWin v1.7因此HttpsqsWin兼容Httpsqs v1.7的所有命令，原Httpsqs的各种客户端可以不加修改进行使用。
 
 可以在wiki中的benchmark文档中找到关于HttpsqsWin的性能测试数据。
+https://github.com/jiafan319/HttpsqsWin/wiki/benchmark
 
 详细的使用说明和客户端可以访问原作者张宴的blog
 http://blog.s135.com/httpsqs/7/1/
 
 具体编译和安装方法可以参考wiki中的INSTALL文档。
+https://github.com/jiafan319/HttpsqsWin/wiki/INSTALL
+
 
 作者：贾凡
 Email：jiafan319@gmail.com
