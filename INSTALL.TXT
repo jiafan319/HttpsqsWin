@@ -1,0 +1,9 @@
+HttpsqsWin目前支持在VS2010和VS2012下直接生成。
+源代码包中已经包含了编译好的libevent2和kyotocabinet的头文件和库文件。直接执行nmake就可以生成。
+VS2010使用
+      nmake /f Makefile.vs2010
+VS2012使用
+      nmake /f Makefile.vs2012
+
+有任何问题欢迎发邮件给我或者在wiki中评论
+jiafan319@gmail.com
